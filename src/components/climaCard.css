@@ -1,0 +1,8 @@
+.cardCard {
+  font-weight: bold;
+  background-color: rgb(6, 3, 3);
+}
+.adelante {
+  z-index: 100;
+  background-color: rgba(2, 2, 2, 0.35);
+}
